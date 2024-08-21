@@ -32,12 +32,12 @@ main {
 
 .login-wrapper form {
     padding: 15px;
-    background: #00189b !important;
+    background: #6b0c0c !important;
     border-radius: 5px;
 }
 
 .button-blue {
-    background-color: #1a1847 !important;
+    background-color: #490609 !important;
 }
 
 .btnLogin {
@@ -121,8 +121,8 @@ main {
     background: linear-gradient(
         to left,
         #310305,
-        #1a1847 40%,
-        #1a1847 60%,
+        #490609 40%,
+        #490609 60%,
         #310305 100%
     );
     display: flex;
@@ -134,7 +134,7 @@ main {
 }
 
 .nav.tab-menu .nav-item .nav-link.active {
-    background: #00189b !important;
+    background: #6b0c0c !important;
     border-radius: 5px;
 }
 
@@ -232,7 +232,7 @@ main {
 
 .frame-border-image,
 .tab-pane-content .tab-item-image {
-    border: 1px solid #00189b;
+    border: 1px solid #6b0c0c;
     border-radius: 10px;
     padding: 5px;
     display: flex;
@@ -637,7 +637,7 @@ h4 {
 }
 
 #links-sosmed .link {
-    background: #00189b;
+    background: #6b0c0c;
     padding: 10px 10px 10px 10px;
     border-right: 1px solid #000;
     border-top: 1px solid #000;
